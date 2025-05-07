@@ -1,0 +1,3 @@
+Scanning target: 127.0.0.1
+[+] Port 22 is open | Banner: OpenSSH_7.6
+[+] Port 80 is open | Banner: Apache HTTPD
